@@ -1,0 +1,290 @@
+INPUT
+10
+1
+0.5
+10
+10
+10
+20
+
+
+OUTPUT
+One Calculator to Calculate Them All!
+
+Diameter of a ring (in cm)? Height of a ring (in mm)? Volume of a ring without the inner cutout is: 7850.0 mm^3
+Ratio of the inner cutout diameter (as a decimal)? Volume of the inner cutout is: 1962.5 mm^3
+Volume of a ring with the inner cutout is: 5887.5 mm^3
+
+***Rings of Power***
+
+Number of rings? Cost of the material (in cents per cubic inch)? Forging cost (in cents per ring)? Total material needed is: 58875.0 mm^3
+Total number of cubes to purchase is: 4 cube(s)
+Cost for the Rings of Power is: 1 dollar(s) and 40 cent(s)!
+
+***The One Ring***
+
+Cost of the material (in cents per cubic inch)? Number of cubes to purchase is: 1 cube(s)
+Cost for the One Ring is: 0 dollar(s) and 50 cent(s)!
+
+This Shall Not Fail!
+
+INPUT
+20
+20
+0.5
+20
+22
+20
+10
+
+OUTPUT
+One Calculator to Calculate Them All!
+
+Diameter of a ring (in cm)? Height of a ring (in mm)? Volume of a ring without the inner cutout is: 628000.0 mm^3
+Ratio of the inner cutout diameter (as a decimal)? Volume of the inner cutout is: 157000.0 mm^3
+Volume of a ring with the inner cutout is: 471000.0 mm^3
+
+***Rings of Power***
+
+Number of rings? Cost of the material (in cents per cubic inch)? Forging cost (in cents per ring)? Total material needed is: 9420000.0 mm^3
+Total number of cubes to purchase is: 575 cube(s)
+Cost for the Rings of Power is: 130 dollar(s) and 50 cent(s)!
+
+***The One Ring***
+
+Cost of the material (in cents per cubic inch)? Number of cubes to purchase is: 29 cube(s)
+Cost for the One Ring is: 3 dollar(s) and 50 cent(s)!
+
+This Shall Not Fail!
+
+INPUT
+123
+45
+0.6
+78
+90
+25
+100
+
+OUTPUT
+One Calculator to Calculate Them All!
+
+Diameter of a ring (in cm)? Height of a ring (in mm)? Volume of a ring without the inner cutout is: 53443192.5 mm^3
+Ratio of the inner cutout diameter (as a decimal)? Volume of the inner cutout is: 19239549.3 mm^3
+Volume of a ring with the inner cutout is: 34203643.2 mm^3
+
+***Rings of Power***
+
+Number of rings? Cost of the material (in cents per cubic inch)? Forging cost (in cents per ring)? Total material needed is: 2667884169.6 mm^3
+Total number of cubes to purchase is: 162805 cube(s)
+Cost for the Rings of Power is: 146544 dollar(s) and 0 cent(s)!
+
+***The One Ring***
+
+Cost of the material (in cents per cubic inch)? Number of cubes to purchase is: 2088 cube(s)
+Cost for the One Ring is: 2088 dollar(s) and 75 cent(s)!
+
+This Shall Not Fail!
+
+INPUT
+16
+8
+0.4
+2
+1
+100
+200
+
+OUTPUT
+One Calculator to Calculate Them All!
+
+Diameter of a ring (in cm)? Height of a ring (in mm)? Volume of a ring without the inner cutout is: 160768.0 mm^3
+Ratio of the inner cutout diameter (as a decimal)? Volume of the inner cutout is: 25722.88 mm^3
+Volume of a ring with the inner cutout is: 135045.12 mm^3
+
+***Rings of Power***
+
+Number of rings? Cost of the material (in cents per cubic inch)? Forging cost (in cents per ring)? Total material needed is: 270090.24 mm^3
+Total number of cubes to purchase is: 17 cube(s)
+Cost for the Rings of Power is: 2 dollar(s) and 17 cent(s)!
+
+***The One Ring***
+
+Cost of the material (in cents per cubic inch)? Number of cubes to purchase is: 9 cube(s)
+Cost for the One Ring is: 21 dollar(s) and 0 cent(s)!
+
+This Shall Not Fail!
+
+INPUT
+10
+20
+0.3
+40
+50
+50
+75
+
+OUTPUT
+One Calculator to Calculate Them All!
+
+Diameter of a ring (in cm)? Height of a ring (in mm)? Volume of a ring without the inner cutout is: 157000.0 mm^3
+Ratio of the inner cutout diameter (as a decimal)? Volume of the inner cutout is: 14130.0 mm^3
+Volume of a ring with the inner cutout is: 142870.0 mm^3
+
+***Rings of Power***
+
+Number of rings? Cost of the material (in cents per cubic inch)? Forging cost (in cents per ring)? Total material needed is: 5714800.0 mm^3
+Total number of cubes to purchase is: 349 cube(s)
+Cost for the Rings of Power is: 194 dollar(s) and 50 cent(s)!
+
+***The One Ring***
+
+Cost of the material (in cents per cubic inch)? Number of cubes to purchase is: 9 cube(s)
+Cost for the One Ring is: 8 dollar(s) and 25 cent(s)!
+
+This Shall Not Fail!
+
+INPUT
+111
+11
+0.1
+111
+1111
+40
+60
+
+OUTPUT
+One Calculator to Calculate Them All!
+
+Diameter of a ring (in cm)? Height of a ring (in mm)? Volume of a ring without the inner cutout is: 10639183.5 mm^3
+Ratio of the inner cutout diameter (as a decimal)? Volume of the inner cutout is: 106391.84 mm^3
+Volume of a ring with the inner cutout is: 10532791.66 mm^3
+
+***Rings of Power***
+
+Number of rings? Cost of the material (in cents per cubic inch)? Forging cost (in cents per ring)? Total material needed is: 1169139874.81 mm^3
+Total number of cubes to purchase is: 71346 cube(s)
+Cost for the Rings of Power is: 792698 dollar(s) and 46 cent(s)!
+
+***The One Ring***
+
+Cost of the material (in cents per cubic inch)? Number of cubes to purchase is: 643 cube(s)
+Cost for the One Ring is: 387 dollar(s) and 0 cent(s)!
+
+This Shall Not Fail!
+
+INPUT
+123
+4
+0.99
+125
+123
+15
+20
+
+OUTPUT
+One Calculator to Calculate Them All!
+
+Diameter of a ring (in cm)? Height of a ring (in mm)? Volume of a ring without the inner cutout is: 4750506.0 mm^3
+Ratio of the inner cutout diameter (as a decimal)? Volume of the inner cutout is: 4655970.93 mm^3
+Volume of a ring with the inner cutout is: 94535.07 mm^3
+
+***Rings of Power***
+
+Number of rings? Cost of the material (in cents per cubic inch)? Forging cost (in cents per ring)? Total material needed is: 11816883.67 mm^3
+Total number of cubes to purchase is: 722 cube(s)
+Cost for the Rings of Power is: 906 dollar(s) and 81 cent(s)!
+
+***The One Ring***
+
+Cost of the material (in cents per cubic inch)? Number of cubes to purchase is: 6 cube(s)
+Cost for the One Ring is: 1 dollar(s) and 65 cent(s)!
+
+This Shall Not Fail!
+
+INPUT
+10
+2
+0.5
+10
+3
+100
+50
+
+OUTPUT
+One Calculator to Calculate Them All!
+
+Diameter of a ring (in cm)? Height of a ring (in mm)? Volume of a ring without the inner cutout is: 15700.0 mm^3
+Ratio of the inner cutout diameter (as a decimal)? Volume of the inner cutout is: 3925.0 mm^3
+Volume of a ring with the inner cutout is: 11775.0 mm^3
+
+***Rings of Power***
+
+Number of rings? Cost of the material (in cents per cubic inch)? Forging cost (in cents per ring)? Total material needed is: 117750.0 mm^3
+Total number of cubes to purchase is: 8 cube(s)
+Cost for the Rings of Power is: 10 dollar(s) and 24 cent(s)!
+
+***The One Ring***
+
+Cost of the material (in cents per cubic inch)? Number of cubes to purchase is: 1 cube(s)
+Cost for the One Ring is: 3 dollar(s) and 50 cent(s)!
+
+This Shall Not Fail!
+
+INPUT
+.2
+1
+0.0
+1000
+100
+1
+1
+
+OUTPUT
+One Calculator to Calculate Them All!
+
+Diameter of a ring (in cm)? Height of a ring (in mm)? Volume of a ring without the inner cutout is: 3.14 mm^3
+Ratio of the inner cutout diameter (as a decimal)? Volume of the inner cutout is: 0.0 mm^3
+Volume of a ring with the inner cutout is: 3.14 mm^3
+
+***Rings of Power***
+
+Number of rings? Cost of the material (in cents per cubic inch)? Forging cost (in cents per ring)? Total material needed is: 3140.0 mm^3
+Total number of cubes to purchase is: 1 cube(s)
+Cost for the Rings of Power is: 11 dollar(s) and 0 cent(s)!
+
+***The One Ring***
+
+Cost of the material (in cents per cubic inch)? Number of cubes to purchase is: 1 cube(s)
+Cost for the One Ring is: 0 dollar(s) and 4 cent(s)!
+
+This Shall Not Fail!
+
+INPUT
+10
+10
+0.1
+10
+10
+5
+10
+
+OUTPUT
+One Calculator to Calculate Them All!
+
+Diameter of a ring (in cm)? Height of a ring (in mm)? Volume of a ring without the inner cutout is: 78500.0 mm^3
+Ratio of the inner cutout diameter (as a decimal)? Volume of the inner cutout is: 785.0 mm^3
+Volume of a ring with the inner cutout is: 77715.0 mm^3
+
+***Rings of Power***
+
+Number of rings? Cost of the material (in cents per cubic inch)? Forging cost (in cents per ring)? Total material needed is: 777150.0 mm^3
+Total number of cubes to purchase is: 48 cube(s)
+Cost for the Rings of Power is: 5 dollar(s) and 30 cent(s)!
+
+***The One Ring***
+
+Cost of the material (in cents per cubic inch)? Number of cubes to purchase is: 5 cube(s)
+Cost for the One Ring is: 0 dollar(s) and 65 cent(s)!
+
+This Shall Not Fail!
